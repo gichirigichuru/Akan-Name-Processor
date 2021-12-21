@@ -39,9 +39,12 @@ table, th, td {
 form {
     text-align: left;
     border-radius: 10px;
-    background: url(../images/greyscale.jpeg);
     padding: 20px;
     width: 80%;
     margin-left: 25%;
+}
+legend {
+    text-align: center;
+    color: rgb(172, 224, 30);
 }
 
