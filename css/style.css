@@ -1,3 +1,12 @@
+body { background-image: url(../images/white.jpeg);
+    background-blend-mode: multiply;
+
+    font-family: cursive;
+    text-align: center;
+    color: black;
+
+
+}
 table {
     width: 400px;
 }
