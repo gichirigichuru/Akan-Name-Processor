@@ -9,7 +9,6 @@ table, th, td {
     border-collapse: collapse;
     border-spacing: 0;
 }
-
 .tg td {
     border-color: black;
     border-style: solid;
@@ -37,3 +36,12 @@ table, th, td {
     text-align: center;
     vertical-align: top
 }
+form {
+    text-align: left;
+    border-radius: 10px;
+    background: url(../images/greyscale.jpeg);
+    padding: 20px;
+    width: 80%;
+    margin-left: 25%;
+}
+
